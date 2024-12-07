@@ -35,16 +35,6 @@ Ce projet représente la partie backend de l'application de réseau social. Il e
     npm start
 
 
-
-
-
-
-
-
-
-
-
-
 social-network-backend/
 ├── models/
 │   └── Post.js
