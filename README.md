@@ -20,8 +20,13 @@ Ce projet représente la partie backend de l'application de réseau social. Il e
 
 
 2. Installez les dépendances :
-
+    ```bash
     npm install
+
+
+3. Lancez le projet:
+    ```bash
+    npm start
 
 
 ## Dépendances principales:
@@ -29,11 +34,6 @@ Ce projet représente la partie backend de l'application de réseau social. Il e
     Mongoose
     Dotenv
     Nodemon 
-
-
-## Lancez le projet:
-    npm start
-
 
 social-network-backend/
 ├── models/
